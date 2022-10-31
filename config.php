@@ -13,9 +13,9 @@
 
 $config = array(
 	'title' => "短网址演示",                     //网站标题
-	'site' => "https://51015.cn/demo/shortUrl",  //短网址域名
+	'site' => "https://shorturl-6ds.pages.dev/demo/shortUrl",  //短网址域名
 	//不允许缩短的域名，单个匹配，*表示所有的二级域名
-	'blackList' => array('*.51015.cn','baidu1.com','youku1.com'),
+	'blackList' => array('*.51015.cn','baidu1.com','youku1.com','shorturl-6ds.pages.dev'),
 	'key' => "idjl",                             //token 使用的密钥
 
 	//根据需求修改
